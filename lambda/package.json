@@ -1,0 +1,6 @@
+{
+  "author": "MuhammadChaudhry",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}

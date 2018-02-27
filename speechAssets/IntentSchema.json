@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "Guess",
+      "slots": [
+        {
+          "name" : "GuessedNumber",
+          "type" : "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
